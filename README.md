@@ -8,6 +8,15 @@ We built the **DGU-HAO: A Dataset with Daily Life Objects for Comprehensive 3D H
 
 ## Dataset Download
 
+### Raw Data & Labeled Data
+
+### Pre-processed Skeleton data
+We pre-processed human motion capture data (bvh, json) to the skeleton data with 25 joints.
+
+We have 67,505 pre-processed skeleton data.
+
+[Pre-processed skeleton data access](https://farmnas.synology.me:6953/sharing/K4W2JiQx3)
+
 
 ## Dataset Structure
 Regular expression of the data file name
@@ -72,6 +81,9 @@ Regular expression of the data file name
     └── FN
         │── ...
 ```
+
+### Action Classes (TBU)
+
 
 ## Environment Setting
 
