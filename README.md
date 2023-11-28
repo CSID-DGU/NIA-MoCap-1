@@ -10,6 +10,10 @@ We built the **DGU-HAO: A Dataset with Daily Life Objects for Comprehensive 3D H
 
 
 ## Dataset Structure
+Regular expression of the data file name
+
+![image](https://github.com/CSID-DGU/NIA-MoCap-1/assets/46514182/7e0dab6f-a4d3-444b-80a0-8f139b9f328f)
+
 ```
 .
 ├── raw_data
