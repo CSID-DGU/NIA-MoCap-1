@@ -1,35 +1,29 @@
 # DGU-HAO: A Dataset with Daily Life Objects for Comprehensive 3D Human Action Analysis
 
-This repository holds the codebase, dataset and models for the work:
+This repository holds the codebase, dataset, and models for the work:
 **MMNet: A Model-based Multimodal Network for Human Action Recognition in RGB-D Videos**
 Bruce X.B. Yu, Yan Liu, Xiang Zhang, Sheng-hua Zhong, Keith C.C. Chan, TPAMI 2022 ([PDF](https://ieeexplore.ieee.org/document/9782511))
 
 We built the **DGU-HAO: A Dataset with Daily Life Objects for Comprehensive 3D Human Action Analysis** dataset and validated it using the **MMNet: A Model-based Multimodal Network for Human Action Recognition in RGB-D Videos**.
 
-본 검증 과정은 크게 아래와 같이 5단계로 이루어져있다.
-* 검증 환경 세팅
-* 원천 데이터 전처리
-* 데이터셋 세팅 (train/test dataset)
-* Train
-* Test
+## Dataset Download
 
 
-## 검증 환경 세팅
+## Environment Setting
 
-### 1. 아래의 명령어를 사용하여 github에서 소스코드를 clone 받는다.
+### 1. Clone the repository
 ``` shell
 git clone https://github.com/CSID-DGU/NIA-MoCap-1.git
 cd NIA-MoCap-1
 ```
 
-### 2.아래의 명령어를 사용하여 `requirement.txt`에 있는 모듈을 모두 설치한다.
+### 2. Install the requriements
 #### Prerequisites
 - Python3 (>3.5)
-- [PyTorch](http://pytorch.org/)
+- [PyTorch](http://pytorch.org/) depending on user's machine.
 ``` shell
 pip install -r requirement.txt
 ```
-다만, 검증하는 PCdml GPU 사양에 따라 `torch` 및 `torchvision` 모듈의 버전 수정은 가능하다.
 ``` shell
 cd torchlight; python setup.py install; cd ..
 ```
