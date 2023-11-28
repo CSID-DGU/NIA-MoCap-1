@@ -9,6 +9,7 @@ We built the **DGU-HAO: A Dataset with Daily Life Objects for Comprehensive 3D H
 ## Dataset Download
 
 ### Raw Data & Labeled Data
+[Data access](https://farmnas.synology.me:6953/sharing/IhijV5Rkr)
 
 ### Pre-processed Skeleton data
 We pre-processed human motion capture data (bvh, json) to the skeleton data with 25 joints.
