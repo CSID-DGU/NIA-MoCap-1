@@ -1,11 +1,10 @@
-# 가구가전사무기기 사용 모션캡처 데이터 검증
+# DGU-HAO: A Dataset with Daily Life Objects for Comprehensive 3D Human Action Analysis
 
 This repository holds the codebase, dataset and models for the work:
 **MMNet: A Model-based Multimodal Network for Human Action Recognition in RGB-D Videos**
 Bruce X.B. Yu, Yan Liu, Xiang Zhang, Sheng-hua Zhong, Keith C.C. Chan, TPAMI 2022 ([PDF](https://ieeexplore.ieee.org/document/9782511))
 
-
-본 검증 과정은 가구가전사무기기 사용 모션캡처 데이터를 **MMNet: A Model-based Multimodal Network for Human Action Recognition in RGB-D Videos** 모델을 활용하여 검증하였다.
+We built the **DGU-HAO: A Dataset with Daily Life Objects for Comprehensive 3D Human Action Analysis** dataset and validated it using the **MMNet: A Model-based Multimodal Network for Human Action Recognition in RGB-D Videos**.
 
 본 검증 과정은 크게 아래와 같이 5단계로 이루어져있다.
 * 검증 환경 세팅
