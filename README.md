@@ -13,7 +13,7 @@ We built the **DGU-HAO: A Dataset with Daily Life Objects for Comprehensive 3D H
 ### Pre-processed Skeleton data
 We pre-processed human motion capture data (bvh, json) to the skeleton data with 25 joints.
 
-We have 67,505 pre-processed skeleton data.
+We have 67,505 samples of pre-processed skeleton data.
 
 [Pre-processed skeleton data access](https://farmnas.synology.me:6953/sharing/K4W2JiQx3)
 
