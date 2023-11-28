@@ -15,7 +15,7 @@ We pre-processed human motion capture data (bvh, json) to the skeleton data with
 
 We have 67,505 samples of pre-processed skeleton data.
 
-[Pre-processed skeleton data access](https://farmnas.synology.me:6953/sharing/K4W2JiQx3)
+[Pre-processed skeleton data access](https://farmnas.synology.me:6953/sharing/xhc6fCBxZ)
 
 
 ## Dataset Structure
