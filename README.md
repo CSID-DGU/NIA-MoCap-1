@@ -1,4 +1,4 @@
-# DGU-HAO: A Dataset with Daily Life Objects for Comprehensive 3D Human Action Analysis
+# DGU-HAO: A Dataset with Daily Life Objects for Comprehensive 3D Human Action Analysis ([PDF] (https://ieeexplore.ieee.org/document/10385044?source=authoralert))
 
 This repository holds the codebase, dataset, and models for the work:
 **MMNet: A Model-based Multimodal Network for Human Action Recognition in RGB-D Videos**
