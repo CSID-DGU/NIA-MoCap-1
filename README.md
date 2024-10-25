@@ -105,4 +105,13 @@ pip install -r requirement.txt
 cd torchlight; python setup.py install; cd ..
 ```
 
+### 3. Dataset Citation
+```
+@article{park2024dgu,
+  title={DGU-HAO: A Dataset With Daily Life Objects for Comprehensive 3D Human Action Analysis},
+  author={Park, Jiho and Kim, Junghye and Gil, Yujung and Kim, Dongho},
+  journal={IEEE Access},
+  year={2024},
+  publisher={IEEE}
+```
 
