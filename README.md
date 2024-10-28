@@ -11,7 +11,7 @@ We built the **DGU-HAO: A Dataset with Daily Life Objects for Comprehensive 3D H
 ### Raw Data & Labeled Data
 [Data access](https://farmnas.synology.me:6953/sharing/IhijV5Rkr)
 
-To access the data, please use a VPN to change your location to South Korea and then access the link above.
+(To access the data, please use a VPN to change your location to South Korea and then access the link above.)
 
 ### Pre-processed Skeleton data
 We pre-processed human motion capture data (bvh, json) to the skeleton data with 25 joints.
@@ -19,6 +19,9 @@ We pre-processed human motion capture data (bvh, json) to the skeleton data with
 We have 67,505 samples of pre-processed skeleton data.
 
 [Pre-processed skeleton data access](https://farmnas.synology.me:6953/sharing/xhc6fCBxZ)
+
+(To access the data, please use a VPN to change your location to South Korea and then access the link above.)
+
 
 
 ## Dataset Structure
