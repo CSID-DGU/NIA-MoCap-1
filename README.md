@@ -6,17 +6,17 @@ Bruce X.B. Yu, Yan Liu, Xiang Zhang, Sheng-hua Zhong, Keith C.C. Chan, TPAMI 202
 
 We built the **DGU-HAO: A Dataset with Daily Life Objects for Comprehensive 3D Human Action Analysis** dataset and validated it using the **MMNet: A Model-based Multimodal Network for Human Action Recognition in RGB-D Videos**.
 
-## Dataset Download
+## Dataset Download (data lost)
 
-### Raw Data & Labeled Data
+### ~~Raw Data & Labeled Data~~
 ~~[Data access]()~~
 
 ~~(To access the data, please use a VPN to change your location to South Korea and then access the link above.)~~
 
-### Pre-processed Skeleton data
-We pre-processed human motion capture data (bvh, json) to the skeleton data with 25 joints.
+### ~~Pre-processed Skeleton data~~
+~~We pre-processed human motion capture data (bvh, json) to the skeleton data with 25 joints.~~
 
-We have 67,505 samples of pre-processed skeleton data.
+~~We have 67,505 samples of pre-processed skeleton data.~~
 
 ~~[Pre-processed skeleton data access]()~~
 
